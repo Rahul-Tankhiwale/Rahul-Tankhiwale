@@ -5,20 +5,13 @@ I enjoy learning new technologies, solving complex problems, and continuously im
 
  I’m currently working on
 - Developing and testing full-stack web applications using ReactJS, NodeJS, and MySQL  
-- Enhancing my QA automation skills with tools like Selenium and Postman
+- 
 
  I’m looking to collaborate on
 - Open-source projects related to web development or testing automation  
 - Innovative projects that improve user experience and software quality
 
-I’m looking for help with
-- Implementing CI/CD pipelines for automated testing and deployment  
-- Exploring cloud-based testing environments using AWS or Azure
   
- I’m currently learning
-- Advanced JavaScript concepts and API integration  
-- Software testing frameworks and automation techniques  
-- Agile methodologies and DevOps fundamentals
 
 
 ## 🌐 Socials:
